@@ -1,6 +1,6 @@
-package test.observers;
+package organDonation.observers;
 
-import test.net.TCPClient;
+import organDonation.net.TCPClient;
 
 public abstract class SpriteObserver<SpriteType> implements ObserverInterface<SpriteType> {
 	protected ObservableInterface<SpriteType> _provider;

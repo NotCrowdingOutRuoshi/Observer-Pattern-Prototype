@@ -1,10 +1,10 @@
-package test;
+package organDonation;
 
-import test.entities.Character;
-import test.entities.Organ;
-import test.net.TCPClient;
-import test.observers.CharacterObserver;
-import test.observers.OrganObserver;
+import organDonation.entities.Character;
+import organDonation.entities.Organ;
+import organDonation.net.TCPClient;
+import organDonation.observers.CharacterObserver;
+import organDonation.observers.OrganObserver;
 
 public class Main {
 

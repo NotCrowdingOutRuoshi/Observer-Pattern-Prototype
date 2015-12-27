@@ -1,8 +1,8 @@
-package test.entities;
+package organDonation.entities;
 
 import java.util.ArrayList;
 
-import test.observers.ObserverInterface;
+import organDonation.observers.ObserverInterface;
 
 public class Character extends Sprite<Character> {
 	protected ArrayList<Organ> _organs;

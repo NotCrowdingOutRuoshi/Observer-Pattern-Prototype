@@ -1,6 +1,6 @@
-package test.entities;
+package organDonation.entities;
 
-import test.observers.ObserverInterface;
+import organDonation.observers.ObserverInterface;
 
 public class Organ extends Sprite<Organ> {
 

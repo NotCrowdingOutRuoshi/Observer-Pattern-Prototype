@@ -1,4 +1,4 @@
-package test.observers;
+package organDonation.observers;
 
 public interface ObservableInterface<ObservableType> {
 	public void attach(ObserverInterface<ObservableType> observer);

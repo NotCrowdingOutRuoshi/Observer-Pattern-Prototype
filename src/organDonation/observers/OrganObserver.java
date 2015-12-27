@@ -1,7 +1,7 @@
-package test.observers;
+package organDonation.observers;
 
-import test.entities.Organ;
-import test.net.TCPClient;
+import organDonation.entities.Organ;
+import organDonation.net.TCPClient;
 
 public class OrganObserver extends SpriteObserver<Organ> {
 

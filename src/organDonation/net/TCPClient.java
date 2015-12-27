@@ -1,4 +1,4 @@
-package test.net;
+package organDonation.net;
 
 public class TCPClient {
 	public TCPClient() {

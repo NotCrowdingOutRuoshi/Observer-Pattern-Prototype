@@ -1,9 +1,9 @@
-package test.entities;
+package organDonation.entities;
 
 import java.util.ArrayList;
 
-import test.observers.ObservableInterface;
-import test.observers.ObserverInterface;
+import organDonation.observers.ObservableInterface;
+import organDonation.observers.ObserverInterface;
 
 public abstract class Sprite<SpriteType> implements ObservableInterface<SpriteType> {
 	protected ArrayList<ObserverInterface<SpriteType>> _observers;
